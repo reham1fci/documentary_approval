@@ -1,0 +1,11 @@
+  const String BASE_URL="http://174.142.60.74:5599/api/";
+  const String DEFINITION_URL="Definition/" ;
+  const String GET_DEFINITION_URL=DEFINITION_URL+"GetDefinition" ;
+  const String LOGIN_URL=DEFINITION_URL+"Login" ;
+  const String ORDER_URL="order/" ;
+  const String SYNC_ORDER_URL=ORDER_URL+"SyncOrders" ;
+  const String CATEGORY_TB="gategory" ;
+  const String CAT_ID="Cat_ID" ;
+  const String CAT_CODE="Cat_Code" ;
+  const String CAT_NM_AR="Cat_arNM" ;
+  const String CAT_NM_EN="Cat_enNM" ;
