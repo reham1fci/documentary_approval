@@ -30,6 +30,8 @@ dependencies:
   shared_preferences: ^0.5.3
   json_serializable: ^3.2.5
   fluttertoast:
+  device_info: ^0.4.0+4
+  intl: ^0.17.0
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -52,10 +54,24 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
-
+  assets:
+      - strings/en.json
+      - strings/ar.json
+      - images/user.png
+      - images/logo.png
+      - images/company.png
+      - images/password.png
+      - images/documents.png
+      - images/unnamed.jpg
+      - images/purchase_req_icon.jpg
+      - images/purchase_order.jpg
+      - images/convert_data.png
+      - images/clients.png
+      - images/prices.png
+      - images/exchange.png
+      - images/take.png
+      - images/logo2.png
+      - images/restrictions.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 

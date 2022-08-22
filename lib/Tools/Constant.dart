@@ -1,4 +1,7 @@
-  const String BASE_URL="http://174.142.60.74:5599/api/";
+  const String BASE_URL="http://174.142.60.74:8091/api/";
+  const String USERS_LOGIN=BASE_URL+"Users/";
+  const String DOC_REQ=BASE_URL+"RQ";
+  const String DOC_REQ_NEW="http://174.142.60.74:8085/oprtions/RQ";
   const String DEFINITION_URL="Definition/" ;
   const String GET_DEFINITION_URL=DEFINITION_URL+"GetDefinition" ;
   const String LOGIN_URL=DEFINITION_URL+"Login" ;
@@ -8,4 +11,5 @@
   const String CAT_ID="Cat_ID" ;
   const String CAT_CODE="Cat_Code" ;
   const String CAT_NM_AR="Cat_arNM" ;
-  const String CAT_NM_EN="Cat_enNM" ;
+  const String DOCUMENTS="doc" ;
+  const String USER="user" ;

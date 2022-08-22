@@ -1,3 +1,6 @@
+import 'package:documentary_approval/Screens/Main.dart';
+import 'package:documentary_approval/Screens/Settings.dart';
+import 'package:documentary_approval/Screens/Splash.dart';
 import 'package:documentary_approval/app_localizations.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
@@ -15,5 +18,5 @@ void main() => runApp(new MaterialApp(
     Locale('en'),
     Locale('ar'),
   ],
-//  home: new Splash(),
+  home: new Splash(),
 ));

@@ -6,5 +6,9 @@ import 'package:flutter/material.dart';
   static const Color grey = const Color(0xFFf7f7f7);
   static const Color greyDark = const Color(0xFFa8a9ad);
   static const Color blue = const Color(0xFF0f75bd);
+  //static const Color redColor = const Color(0xFFd52929);
+  static const Color redColor = const Color(0xFF313584);
+  //static const Color redColor = const Color(0xFF94309c);
+ // static const Color redColor = const Color(0xFF2074ae);
 
  }
